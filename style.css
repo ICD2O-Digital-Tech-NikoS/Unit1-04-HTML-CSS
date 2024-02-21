@@ -1,4 +1,21 @@
-html {
-  height: 100%;
-  width: 100%;
+/* Created by: Niko Shivkumar
+* Created on Febuary 2024
+* This CSS file defines the style for index.html
+*ICD20-Unit1-04-HTML-CSS
+*/
+
+body {
+  background-color:#b3bfc2
 }
+h1 {
+  font-size: 36px;
+  background-color:#b0a178;
+  padding: 30px;
+  text-align: center
+}
+
+p {
+  background-color:#e1dbcb;
+  padding: 10px
+}
+
