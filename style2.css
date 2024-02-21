@@ -1,0 +1,26 @@
+/* Created by: Niko Shivkumar
+* Created on: Febuary 2024
+* This CSS file defines the style for more_style.html
+* ICd2O-Unit1-04-HTML-CSS
+*/
+
+body {
+	background-color:#716d6a;
+}
+
+h1 {
+	background-color: rgb(73, 75, 63);
+	color: hsl(0, 0%, 0%);
+	padding: 40px;
+	text-align: center;
+}
+
+ul {
+  background-color:#b19c91;
+  padding: 40px;
+}
+
+p {
+	background-color: #b08e54;
+  padding: 10px
+}
